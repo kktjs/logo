@@ -16,7 +16,7 @@ jobs:
     - run: mkdir -p dist
     - run: cp -rp *.png dist
     - run: cp -rp *.jpg dist
-    - run: cp -rp *.ico dist
+    # - run: cp -rp *.ico dist
     - run: cp -rp *.svg dist
     - run: cp -rp *.sketch dist
 
@@ -30,7 +30,7 @@ jobs:
           <meta charset="UTF-8">
           <meta http-equiv="X-UA-Compatible" content="IE=edge">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Source files of uivjs's logo.</title>
+          <title>Source files of kktjs's logo.</title>
           <style>
             .header { color: #333; text-align: center; padding: 80px 0 60px 0; min-height: 153px; font-size: 14px; }
             .content { text-align: center; }
@@ -52,42 +52,28 @@ jobs:
         </head>
         <body>
           <div class="header">
-            <img src="./logo.svg" alt="uivjs logo" width="120" />
+            <img src="./kkt.svg" alt="kktjs logo" width="120" />
           </div>
           <div class="content">
-            <a href="./favicon.ico" target="_blank">
-              <img src="./favicon.ico" alt="uivjs favicon ico" />
-              <span>favicon.ico</span>
+            <a href="./kkt.svg" target="_blank">
+              <img src="./kkt.svg" alt="kktjs logo svg" />
+              <span>kkt.svg</span>
             </a>
-            <a href="./logo.svg" target="_blank">
-              <img src="./logo.svg" alt="uivjs logo svg" />
-              <span>logo.svg</span>
+            <a href="./kkt@2x.png" target="_blank">
+              <img src="./kkt@2x.png" alt="kktjs logo svg" />
+              <span>kkt@2x.png</span>
             </a>
-            <a href="./uivjs.sketch" target="_blank">
-              <img src="./logo.svg" alt="uivjs sketch" />
-              <span>uivjs.sketch</span>
+            <a href="./kkt@2x.jpg" target="_blank">
+              <img src="./kkt@2x.jpg" alt="kktjs logo svg" />
+              <span>kkt@2x.jpg</span>
             </a>
-          </div>
-          <div class="content">
-            <a href="./favicon-16x16.png" target="_blank">
-              <img src="./favicon-16x16.png" alt="uivjs favicon 16x16" />
-              <span>favicon-16x16.png</span>
+            <a href="./kkt@3x.png" target="_blank">
+              <img src="./kkt@3x.png" alt="kktjs logo svg" />
+              <span>kkt@3x.png</span>
             </a>
-            <a href="./favicon-32x32.png" target="_blank">
-              <img src="./favicon-32x32.png" alt="uivjs favicon" />
-              <span>favicon-32x32.png</span>
-            </a>
-            <a href="./android-chrome-512x512.png" target="_blank">
-              <img src="./android-chrome-512x512.png" alt="uivjs android chrome 512x512" />
-              <span>android-chrome-512x512.png</span>
-            </a>
-            <a href="./android-chrome-192x192.png" target="_blank">
-              <img src="./android-chrome-192x192.png" alt="uivjs android chrome 192x192" />
-              <span>android-chrome-192x192.png</span>
-            </a>
-            <a href="./safari-pinned-tab.svg" target="_blank">
-              <img src="./safari-pinned-tab.svg" alt="uivjs android chrome 192x192" />
-              <span>safari-pinned-tab.svg</span>
+            <a href="./kktjs.sketch" target="_blank">
+              <img src="./kkt.svg" alt="kktjs sketch" />
+              <span>kktjs.sketch</span>
             </a>
           </div>
         </body>
