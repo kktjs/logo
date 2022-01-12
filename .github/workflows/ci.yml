@@ -72,9 +72,9 @@ jobs:
               <img src="./kkt@3x.png" alt="kktjs logo svg" />
               <span>kkt@3x.png</span>
             </a>
-            <a href="./kktjs.sketch" target="_blank">
+            <a href="./kkt.sketch" target="_blank">
               <img src="./kkt.svg" alt="kktjs sketch" />
-              <span>kktjs.sketch</span>
+              <span>kkt.sketch</span>
             </a>
           </div>
           <div class="footer">
