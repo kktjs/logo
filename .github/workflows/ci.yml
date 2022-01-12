@@ -48,7 +48,7 @@ jobs:
               margin-top: 10px;
               padding: 16px;
             }
-            .footer { text-align: center; line-height: 20px; padding: 10px 0 20px 0; }
+            .footer { text-align: center; line-height: 20px; padding: 20px 0 20px 0; font-size: 12px;}
           </style>
         </head>
         <body>
@@ -78,7 +78,7 @@ jobs:
             </a>
           </div>
           <div class="footer">
-            Licensed under MIT. (Yes it's free, <a href="https://github.com/kktjs/logo" target="_blank">Github</a>)
+            Licensed under MIT. (<a href="https://github.com/kktjs/logo" target="_blank">Github</a>)
             <div>
               Copyright 2021~present <a href="http://github.com/jaywcjlove" target="_blank">Kenny Wong</a>. 
             </div>
