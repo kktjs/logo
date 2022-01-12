@@ -1,6 +1,3 @@
-# logo
-Logo of kktjs
-
 <img src="./kkt.svg" width="120" />
 
 Logo of [kktjs](https://kktjs.github.io/kkt), [Preview Webiste](https://kktjs.github.io/logo/)
